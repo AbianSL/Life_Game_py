@@ -3,7 +3,7 @@ That repository is the famous Conway's Game of Life on the programming language 
 
 # Dependences
 
-You should to install "tkinter" with the pip manager:
+You should to install "pygame" library with the pip manager:
 ```
-    pip install tk
+    pip install pygame
 ```
